@@ -1,4 +1,4 @@
-package util;
+package imageutil;
 
 import android.graphics.Bitmap;
 import android.util.LruCache;

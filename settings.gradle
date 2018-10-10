@@ -1,1 +1,1 @@
-include ':app', ':myfingerprint', ':mysignin', ':mylogin', ':start_1', ':study'
+include ':app', ':myfingerprint', ':mysignin', ':mylogin', ':start_1', ':study', ':builder', ':command'

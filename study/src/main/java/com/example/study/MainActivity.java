@@ -4,10 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ImageView;
 
-import util.DiskCache;
-import util.DoubleCache;
-import util.ImageCache;
-import util.ImageLoader;
+import imageutil.DiskCache;
+import imageutil.ImageLoader;
 
 public class MainActivity extends AppCompatActivity {
 
